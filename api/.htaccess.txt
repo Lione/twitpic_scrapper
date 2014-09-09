@@ -1,0 +1,10 @@
+
+#Turn on the rewrite engine
+
+Options +FollowSymlinks
+
+RewriteEngine on
+
+#Request routing
+
+RewriteRule ^ ([a-zA-Z_-]*)$ twitpicAccess.php?name=$1 [nc,qsa]
