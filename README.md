@@ -1,4 +1,4 @@
 twitpic_scrapper
 ================
 
-Twitpic Photo scrapper solution
+Twitpic Photo scrapper solution by Lione Alushula
