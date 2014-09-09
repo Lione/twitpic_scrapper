@@ -1,0 +1,22 @@
+#easyimgallery{
+	text-align: center;
+}
+
+#easyimgallery ul{
+	margin: 10;
+	padding: 10;
+	list-style: none;
+}
+
+#easyimgallery li{
+	display: inline;
+	margin-right: 10px;
+}
+
+#easyimgallery li img{
+	padding: 3px;
+	background: #fff;
+	border: 1px solid #ccc;
+	height:150px;
+	width:150px;
+}
